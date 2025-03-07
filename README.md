@@ -1,5 +1,6 @@
 # npm install
 # npm install bits-ui 
+# npm i drizzle-orm @libsql/client
 # npm i -D drizzle-kit
 # npx drizzle-kit pull
 
