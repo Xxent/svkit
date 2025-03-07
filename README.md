@@ -1,3 +1,8 @@
+# npm install
+# npm install bits-ui 
+# npm i -D drizzle-kit
+# npx drizzle-kit pull
+
 # sv
 
 # 1: git init && git add -A && git commit -m "Initial commit" (optional)
